@@ -43,7 +43,7 @@ export default function Portfolio() {
       technologies: ["React", "Java Script", " CSS","Mongo DB","Express Js"],
       image: chatapp,
       icon: <Calculator className="h-5 w-5" />,
-      link: "https://chatapp-lovat-chi.vercel.app",
+      link: "https://chatapp-coral-three.vercel.app",
     },
     
     {
